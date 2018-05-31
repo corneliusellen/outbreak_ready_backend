@@ -13,4 +13,14 @@ describe 'Search API' do
       expect(element["address"]).to eq('2030 W 30th Ave, Denver, CO 80211')
     end
   end
+
+  it 'Edge case: Sends message if no restaurants found' do
+    params = {near: 'chicago', query: 'linger'}
+    get "/api/v1/search/restaurants", params: params
+
+    result = JSON.parse(response.body)
+
+    expect(response.status).to eq(200)
+    expect(result["message"]).to eq("No restaurants found for your search")
+  end
 end
