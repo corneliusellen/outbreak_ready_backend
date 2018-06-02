@@ -23,4 +23,16 @@ describe 'Search API' do
     expect(response.status).to eq(200)
     expect(result["message"]).to eq("No restaurants found for your search")
   end
+
+  it 'Edge case: Sends all restaurants in area for chains' do
+    params = {near: 'denver', query: 'pandaexpress'}
+    get "/api/v1/search/restaurants", params: params
+
+    result = JSON.parse(response.body)
+
+    expect(result.count).to eq(29)
+    result.each do |element|
+      expect(element["name"].downcase).to include('panda express')
+    end
+  end
 end
