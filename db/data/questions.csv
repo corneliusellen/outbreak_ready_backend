@@ -1,0 +1,117 @@
+Id,Question,Answers,Category,Tag1,Tag2,Tag3,Association1,Association2
+1,"During the time period, did you drink any water from the tap (faucet)?",Yes/No/Unknown,3,1,8,,,
+2,"During the time period, did you drink any water from anywhere else (other than tap water)? (IF YES, please list the source of the water)  ",Yes/No/Unknown,3,1,8,,,
+3,"During the time period, did you heat up any foods from the canteen/commissary, using a microwave or hot water? (IF YES, what?)",Yes/No/Unknown,3,7,16,,,
+4,"During the time period, did you buy and use cigarettes, chewing tobacco, or dip from the commissary? ",Yes/No/Unknown,3,16,,,,
+5,"During the time period, did you eat any “contraband” food?     ",Yes/No/Unknown,3,7,16,,,
+6,"During the time period, did you have any contraband drinks such as hooch or other drinks? (IF YES, what and when?)",Yes/No/Unknown,3,16,,,,
+7,"During the time period, did you use tobacco, such as cigarettes, chewing tobacco, or dip, that you got from someplace other than the commissary? ",Yes/No/Unknown,3,16,,,,
+8,"During the time period, did you smoke anything besides tobacco (pot or weed, or something else?) ",Yes/No/Unknown,3,16,,,,
+9,How many sexual partners did you have here during the time period? (IF YES:  Were any of those people sick with diarrhea or vomiting?),Yes/No/Unknown,3,12,,,,
+10,"Did you eat any leftover food from trays?  (IF YES, please describe.)",Yes/No/Unknown,3,7,16,,,
+11,"Did you observe any others eat any leftover food from trays?   (IF YES, please describe.)",Yes/No/Unknown,3,7,16,,,
+12,"Do you know if any “secret” or additional food was shared among dishwashers?    (IF YES, please describe.)",Yes/No/Unknown,3,7,16,,,
+13,"Do you know if any of this “secret” or additional food was taken back to any housing units?    (IF YES, please describe.)",Yes/No/Unknown,3,7,16,,,
+14,"Are you aware of anybody using the dishwasher to cook food?   (IF YES, please describe.)",Yes/No/Unknown,3,7,16,,,
+15,"Did you have a job assignment during the time period? (IF YES, what jobs did you do? )",Yes/No/Unknown,1,16,,,,
+16,Date of Birth,fillin,1,25,,,,
+17,Gender,Male/Female/Other,1,25,,,,
+18,"During the time period, have you been sick with diarrhea?",Yes/No/Unknown,2,25,,,,
+19,How many days/hours were you sick?,fillin,2,25,,,,
+20,Are you still ill?,Yes/No/Unknown,2,25,,,,
+21,Did you go to the infirmary/medical or make sick call for this illness? (IF YES:  Date of visit:) (IF YES: What did they say was wrong?),Yes/No/Unknown,2,16,,,,
+22,"Do you usually have any medical problems? (IF YES, What:)",Yes/No/Unknown,2,25,,,,
+23,How many cellmates did you have during that time? (circle number):   ,0/1/2/3,2,16,,,,
+24,Did anyone in your cell have diarrhea before you did,Yes/No/Unknown,2,16,,,,
+25,Did anyone in your cell get diarrhea after you did?  ,Yes/No/Unknown,2,16,,,,
+26,"Do you regularly take medications? (IF YES, WHAT: )",Yes/No/Unknown,2,25,,,,
+27,"Do you have a specific shopping day for canteen? (IF YES, what days: )",Yes/No/Unknown,3,16,,,,
+28,"During the 24 hours before you got sick, did you eat any foods from  the canteen/commissary?",Yes/No/Unknown,3,7,16,,,
+29,"Did you have any visitors in the 24 hours before you got sick? (If YES, what day/s? )",Yes/No/Unknown,3,16,,,,
+30,"Did you take any leftover food from the chow hall and eat it later? (IF YES, please describe. )",Yes/No/Unknown,3,7,16,,,
+31,"Did you observe any others take leftover food from the chow hall and eat it later? (IF YES, please describe. )",Yes/No/Unknown,3,7,16,,,
+32,"Do you know if any “secret” or additional food was shared among offenders? (IF YES, please describe. )",Yes/No/Unknown,3,7,16,,,
+33,"Are you aware of anybody using anything other than a microwave to cook food? (IF YES, please describe. )",Yes/No/Unknown,3,7,16,,,
+34,"During the {time frame above}, did you eat any “contraband” food? (IF YES, what and when?)",Yes/No/Unknown,3,7,16,,,
+35,"131. During the {time frame above}, did you eat any Jimson seeds or other things to get high? (If YES, What was it?)",Yes/No/Unknown,3,7,16,,,
+36,How old are you/your child: ,fillin,1,15,,,14,13
+37,What campsite/bunkhouse did you/your child stay at while at camp? ,fillin,1,15,,,,
+38,On what date did you/your child arrive at camp?  ,fillin,1,15,,,,
+39,On what date did you/your child leave camp,fillin,1,15,,,,
+40,"Were you / Was your child sick with gastrointestinal symptoms (such as diarrhea, vomiting, stomach pain/cramps) within 7 days BEFORE arriving at camp? (IF YES - Did the symptoms continue when you/your child were at camp?)",Yes/No/Unknown,2,15,,,,
+41,"Did you / Did your child develop gastrointestinal symptoms (such as diarrhea, vomiting, stomach pain/cramps) WHILE AT camp? ",Yes/No/Unknown,2,15,,,,
+42,"Did you / Did your child develop gastrointestinal symptoms (such as diarrhea, vomiting, or stomach pain/cramps) AFTER camp? (anytime since leaving camp and now)          ",Yes/No/Unknown,2,15,,,,
+43,On what date did symptoms start?,fillin,2,15,,,,
+44,"In the 7 days before you/your child became ill, did you/your child have contact with anyone ill with diarrhea?          ",Yes/No/Unknown,2,15,,,14,
+45,Did you/your child visit a health care provider for this illness?,Yes/No/Unknown,2,15,,,14,
+46,Stool sample submitted:          ,Yes/No/Unknown,2,15,,,14,
+47,Were handwashing facilities with running water and soap available at the camp,Yes/No/Unknown,3,15,2,,,
+48,Was hand sanitizer available at the camp?  ,Yes/No/Unknown,3,15,2,,,
+49,Was hand sanitizer or handwashing facilities available near the toilets?   ,Yes/No/Unknown,3,15,2,,,
+50,"While at camp, did you/your child leave the camp for any reason (such as to attend an event at a different location)?    ",Yes/No/Unknown,3,15,2,,,
+51,"While at camp, did you/your child do any activities with a small group  that the rest of the other campers  did not do (like a special hike or outing, a special craft activity, prepare a special meal or food item, etc.).  ",Yes/No/Unknown,3,15,2,,,
+52,"While at camp, did you/your child see anyone vomit while on the bus ride to camp, while at camp, or while on the bus ride home from camp?    ",Yes/No/Unknown,3,15,2,,,
+53,What was your/your child’s source of water while at camp? (CHECK ALL THAT APPLY),Bottled Water/Water from the tap at camp/Water bought from home/Other (specify)/,3,15,2,,,
+54,"In the four weeks before your illness started did you eat ANY 
+Panela  
+Queso Blanco 
+Queso Fresco
+Requeson 
+Anejo
+Asadero
+Chihuahua
+Oaxaca
+Jalapeno
+Chontaleno and Chontaleno Ahumado
+Cotija
+Enchilado  
+Manchego 
+Queso Criollo 
+Queso edam  
+Queso manchego viejo
+Queso Chiapas
+Ranchero Cheese 
+Crema
+Any other Mexican-style cheese? (specify)
+Did you purchase any cheese from a door-to-door salesman",Yes/No/Unknown,3,1,,,7,
+55,You mentioned you had eaten [insert the name of Mexican-style cheese ] in the four weeks before your illness started.  Where did you eat it?,Home/Another person’s home/Restaurant (specify)/Don’t know,3,1,,,7,
+56,What type was the cheese?,Shredded in a bag/Shredded in a tub/Block/Other (specify)/Don’t know,3,1,,,7,
+57,Was the cheese reduced-fat or low-fat?,Yes/No/Unknown,3,1,,,7,
+58,Where was the cheese purchased?,Market/Grocery Store/Door-to-door salesman/While in Mexico/Sent by relative or friends in Mexico/Farmer’s Market stand/Other (specify)/Don’t know,3,1,,,7,
+59,What brand was the cheese?,fillin,3,1,,,7,
+60,Was the cheese made from pasteurized milk?,Yes/No/Unknown,3,1,,,7,
+61,How did you consume the cheese? ,"Ingredient in a uncooked dish                     /Ingredient in a cooked dish/Sprinkled on top of a dish or salad/Other (specify)/Don’t know
+",3,1,,,7,
+62,How many times did you eat this cheese between in the four weeks before your illness started as a meal or snack? ,fillin,3,1,,,7,
+63,Do you still have the bag or block of cheese in your home?,Yes/No/Unknown,3,1,,,7,
+64,"If yes, would you be willing to provide the cheese bag/block for laboratory testing? (If yes, please arrange to collect the bag/block for testing)",Yes/No/Unknown,3,1,,,7,
+65,Interviewee Name,fillin,1,25,,,,
+66,Address,fillin,1,25,,,,
+67,Phone,fillin,1,25,,,,
+68,Alternate Phone,fillin,1,25,,,,
+69,Grade/Room,fillin,1,14,,,13,
+70,Classroom teachers,fillin,1,14,,,13,
+71,During the time period which days did you/your child attend school?   (check all that apply):   ,Monday/Tuesday/Wednesday/Thursday/Friday,1,14,,,13,
+72,"Has your child been absent from school any days during the time period? (IF YES, what dates: )",Yes/No/Unknown,1,14,,,13,
+73,Is your child currently in diapers or potty training?,Yes/No/Unknown,1,13,,,,
+74,"Do you/your child have any food allergies or foods he/she does not eat (eggs, meat, dairy, etc)? (IF YES, please describe: )",Yes/No/Unknown,1,14,13,,15,
+75,"While at school, did you/your child eat breakfast: ",Prepared at or sent from home/Prepared at facility/Unknown,3,14,7,,13,
+76,"While at school, did you/your child eat lunch:  ",Prepared at or sent from home/Prepared at facility/Unknown,3,14,7,,13,
+77,"While at school, did you/your child eat snack:  ",Prepared at or sent from home/Prepared at facility/Unknown,3,14,7,,13,
+78,"Are you/your child on a special diet where you/your child receives different foods from the facility cafeteria than is normally served, such as a diabetic diet, lactose intolerant diet, etc.? (IF YES, please describe: )",Yes/No/Unknown,3,14,7,,13,
+79,"Did you/your child have any contact with animals at school during the time period? This may include classroom pets, animals on the playground or school property, or animals brought into the school. (IF YES, what animals? ) (Describe the contact (petting, touching, kissing, etc))",Yes/No/Unknown,3,14,10,,13,
+80,"During the time period, did you/your child eat any food brought into the school by someone else, such as food for a potluck, birthday treat, or other occasion?  (IF Yes, describe the food and when it was eaten)",Yes/No/Unknown,3,14,7,,13,
+81,"During the time period, did you/your child attend any events during the school day that were held offsite, such as a field trip?  (If yes, please describe the events, dates, and locations: )",Yes/No/Unknown,3,14,,,13,
+82,"During the time period, were there any special events held at the school, such as field day, or a party or celebration? (If yes, please describe the events, dates, and locations: )",Yes/No/Unknown,3,14,,,13,
+83,"Are you/your child aware of anything out of the ordinary that occurred at school during the time period? (If yes, please describe: )",Yes/No/Unknown,3,14,,,13,
+84,"During the time period, did your child attend any extracurricular activities outside of school (e.g. karate, dance, etc.)? (If yes, please describe: )",Yes/No/Unknown,3,14,,,13,
+85,"Did you/your child travel outside of the US during the time period? (If yes, please describe the countries and dates of travel.)",Yes/No/Unknown,3,14,,,13,
+86,"Did you/your child travel within the US during the time period? (If yes, please describe the city/state and dates of travel.)",Yes/No/Unknown,3,14,,,13,
+87,"Did you/your child visit, work, or live on a farm within 7 days prior to illness?",Yes/No/Unknown,3,14,10,,13,
+88,"Visit any animal exhibits (petting zoo, county fair, etc)? (If yes to either, did the case have exposure to manure?)",Yes/No/Unknown,3,14,10,,13,
+89," Have contact with a pet or any other animal at home, school, work, etc.?",Yes/No/Unknown,3,14,10,,13,
+90,"During the seven days before becoming ill, did [you/your child] have any type of contact with baby poultry?  ",Yes/No/Unknown,3,10,22,23,,
+91,What type of contact did [you/your child] have with the baby poultry (Check all that apply),"Touched poultry/Held or snuggled with poultry/Kissed poultry/Touched cages/enclosures/Cared for poultry (fed/watered)/Cleaned cages or enclosures/Other (specify)
+",3,10,22,23,,
+92,Where did [you/your child] have contact with these baby poultry?  (Check all that apply),At home/Someone else’s home/Day care or Child care/School/Farm (other than home)/Petting zoo/Farming or Feed store/At another location (specify),3,10,22,23,,
+93,"If kept at a home, Where were the baby poultry kept?  (Check all that apply)",Inside house/living space/Kitchen/Bedroom/Bathroom/Living Room or Den/Dining Room/Basement/Garage/Outdoor poultry pen or house/Other enclosure or cage outside/Other (specify),3,10,22,23,,
