@@ -1,0 +1,26 @@
+Tag,Category_id
+Bacteria,1
+Viral,1
+Parasite,1
+Toxin,1
+Chemical,1
+Other,1
+foodborne,2
+waterborne,2
+person-to-person,2
+animal,2
+environmental,2
+sexual,2
+childcare,3
+school,3
+camp,3
+prison,3
+restaurant,3
+longterm care facility,3
+potluck,3
+stock show,3
+other,3
+poultry,3
+baby poultry,3
+unknown,3
+universal,4
